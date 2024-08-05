@@ -20,7 +20,7 @@ nav_order: 3
 ## Assignments
 There will be two kinds of assignments:
 *   **Problem sets:** Assigned weekly
-*   **Reviews:** After a problem set is due, you will be assigned to review another student's submission and give feedback. You should indicate whether their solution is fully correct and if not, identify the details that are lacking or incorrect. Also indicate if their writing is unclear and give constructive feedback to help them improve. Other notes: your reviews should be respectful and kind. Also, your review can be short or long; the length doesn't matter.
+*   **Reviews:** After a problem set is due, you will be assigned to review another student's submission and give feedback. You should indicate whether their solution is fully correct and if not, identify the details that are lacking or incorrect. Also indicate if their writing is unclear and give constructive feedback to help them improve. In general, your reviews should be respectful and kind. Also, they can be short or long; the length doesn't matter.
 
 ## Collaboration
 
@@ -30,7 +30,7 @@ Similarly, you may use books or online resources to help solve homework problems
 
 ## Cheating
 
-Any student found to be cheating risks automatically failing the class and being referred to the Office of Student Conduct.
+Any student found to be cheating risks automatically failing the class and being referred to the Center for Student Conduct.
 
 ## Submission
 

@@ -40,4 +40,3 @@ Any student found to be cheating risks automatically failing the class and being
 ## Grading
 *   Assignments will largely be graded on completeness. A submission will receive full credit if it attempts every problem and gets most of the details correct.
 *   **Drop policy:** We will drop your lowest 2 problem set scores.
-*   Your final letter grade will **not** depend on how you rank relative to other students.

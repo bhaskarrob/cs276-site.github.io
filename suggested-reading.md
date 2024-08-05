@@ -15,7 +15,7 @@ There is no required textbook for the course, but the following books and lectur
 
 ## Other Resources
 *   Boneh and Shoup's upcoming book [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/book.pdf)
-*   Lecture notes by [Pass-Shelat](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf), [Bellare-Goldwasser](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf) and [Bellare-Rogway](https://cseweb.ucsd.edu/~mihir/cse207/classnotes.html)
+*   Lecture notes by [Pass-Shelat](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf), [Bellare-Goldwasser](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf)/* and [Bellare-Rogway](https://cseweb.ucsd.edu/~mihir/cse207/classnotes.html)*/
 *   Goldreich's book: [Foundations of Cryptography Vol. 1](http://www.amazon.com/Foundations-Cryptography-1-Basic-Tools/dp/0521035368/ref=sr_1_1?ie=UTF8&qid=1440439391&sr=8-1&keywords=foundations+of+cryptography+basic+tools) and [Vol. 2](http://www.amazon.com/Foundations-Cryptography-2-Basic-Applications/dp/052111991X/ref=sr_1_2?ie=UTF8&qid=1440439466&sr=8-2&keywords=foundations+of+cryptography) (some fragments are [freely](http://www.wisdom.weizmann.ac.il/~oded/frag.html) available)
 *   Nigel Smart's book: [Cryptography, An Introduction](https://www.cs.bris.ac.uk/~nigel/Crypto_Book/)
 *   Menezes, Oorschot, and Vanstone's book: [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)

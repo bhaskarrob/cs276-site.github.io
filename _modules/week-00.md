@@ -4,4 +4,4 @@ title: Week 0
 
 Th 8/29
 : **Lecture**{: .label .label-green } [One Way Functions](http://people.eecs.berkeley.edu/~sanjamg/assets/classes/cs276-fall14/scribe/lec02.pdf)
-    : [Notes by Thomas Holenstein](http://www.complexity.ethz.ch/education/Lectures/CtcFS13/LectureNotesChapter01), [More detailed notes](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.9755&rep=rep1&type=pdf) (Chapter 1 and 2 (Section 2.1 to 2.3)), [A Note on Negligible Functions](https://eprint.iacr.org/1997/004.pdf)
+    : [A Note on Negligible Functions](https://eprint.iacr.org/1997/004.pdf)

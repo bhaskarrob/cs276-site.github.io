@@ -1,5 +1,5 @@
 ---
-title: Week 2
+title: Week 0
 ---
 
 Th 8/29

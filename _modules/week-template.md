@@ -1,5 +1,5 @@
 ---
-title: Week 2
+title: Template
 ---
 
 Jan 22
